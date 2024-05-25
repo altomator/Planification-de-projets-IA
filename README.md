@@ -1,7 +1,7 @@
 # Planification-de-projets-IA
 
 *Cette ressource est une traduction du ["Artificial Intelligence Planning Framework"](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/) proposé par le Library of Congress Labs (Abigail Potter, 2023).
-Il inclut une présentation du framework ainsi que des documents implémentant la méthode.*
+Elle inclut une présentation du framework ainsi que des documents implémentant la méthode.*
 
 ---
 

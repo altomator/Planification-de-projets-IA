@@ -16,4 +16,4 @@ Pour tenir compte de ces défis et réalités, LC Labs a développé un cadre de
 ## Données, modèles, personnes
 Lors de la planification et de la réalisation d'expérimentations d'IA et de ML à la Bibliothèque du Congrès, nous avons simplifié les processus de ML en trois éléments principaux :  les données, les modèles et les personnes. La façon dont ces éléments sont combinés nous aide à comprendre si une application de cette technologie est utile, éthique et efficace.
 
-[test](https://blogs.loc.gov/thesignal/files/2023/11/AIframework-2.jpg)
+![test](https://blogs.loc.gov/thesignal/files/2023/11/AIframework-2.jpg)

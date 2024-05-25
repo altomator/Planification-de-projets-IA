@@ -1,6 +1,6 @@
 ## Présentation des documents outillant la méthode
 
-Nous avons créé un [formulaire]() dédié à l'évaluation globale des cas d'usage afin de présenter au personnel les circonstances qui peuvent réduire ou augmenter les risques pour un cas d'usage donné. 
+Nous avons créé un [formulaire](./docs/Use_Case_Assessment_Worksheet_2023-11-15-draft_FR.odt) dédié à l'évaluation globale des cas d'usage afin de présenter au personnel les circonstances qui peuvent réduire ou augmenter les risques pour un cas d'usage donné. 
 
 Une deuxième phase d'évaluation, également outillée par un [formulaire]() permet d'articuler les risques et les avantages pour différents groupes et de documenter les critères de réussite pour un cas d'utilisation donné.
 

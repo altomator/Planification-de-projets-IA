@@ -30,5 +30,26 @@ Le terme « modèle » désigne un ensemble complexe de technologies et d'outils
 
 Bien que le ML soit un processus technique et axé sur les données, les humains sont essentiels au ML et sont liées aux données et modèles. Les personnes créent et sont représentées dans les données, et leur vie privée ainsi que d'autres droits sont protégés par des réglementations et des lois.  Les personnes conçoivent et programment des outils d'IA pour atteindre des objectifs spécifiques, certains scientifiques et d'autres commerciaux. L'expertise et les fonctions du personnel sont représentées dans les cas d'utilisation potentiels de la ML. S'il n'existe pas de données d'entraînement pour un cas d'utilisation, il est probable que des personnes devront étiqueter des ensembles de données, ce qui ajoute une autre tâche à gérer. Les systèmes de ML peuvent avoir un impact positif ou négatif sur les personnes. Les personnes et les organisations qu'elles représentent sont responsables de la qualité de leurs systèmes d'IA. En fin de compte, ce sont eux qui déterminent quand et comment mettre en œuvre l'IA et s'ils le font de manière responsable.
 
-...
+## Phases de la planification 
+La prise en compte des données, des modèles et des personnes impliqués dans un système d'IA est intégrée dans notre cadre de planification. Les étapes *Comprendre, Expérimenter* et *Mettre en œuvre* comprennent des activités de collaboration et aboutissent à une documentation qui participe au développement de pratiques et de politiques pour une IA responsable.
+
+![Phases de la planification](https://blogs.loc.gov/thesignal/files/2023/11/AIframework-2.jpg)
+
+### Comprendre
+
+La première série d'activités consiste à comprendre l'utilisation proposée de l'IA et la manière dont le cas d'usage s'inscrit dans le cadre d'une tâche, d'un système ou d'une organisation. Commencez par recueillir différents points de vue et réfléchissez spécifiquement aux fonctions et aux services assurés par votre équipe.  En gardant à l'esprit les cas d'usage particuliers, formulez en collaboration des principes directeurs, évaluez les risques et les avantages, identifiez les besoins, les priorités et l'expertise, et renseignez-vous sur l'état de préparation des données. Lorsque nous avons recueilli des cas d'usage de l'IA dans l'ensemble de la Bibliothèque, il nous a été utile d'être très précis sur les personnes, les modèles et les données impliqués dans un cas d'usage donné. Nous avons donc développé les outils et les conseils suivants pour aider les organisations à affiner les cas d'usage et à évaluer leur faisabilité.
+
+- Les valeurs, principes et politiques énoncés pour la mise en œuvre de l'IA éclairent les décisions complexes. Consulter les principes proposés par la Maison Blanche des États-Unis pour l'utilisation de l'IA dans l'administration est un excellent point de départ.
+  
+- Nous avons créé une feuille de travail pour l'évaluation des cas d'utilisation afin de présenter au personnel les circonstances qui peuvent réduire ou augmenter les risques pour un cas d'utilisation donné. Une deuxième phase d'évaluation permet d'articuler les risques et les avantages pour différents groupes et de documenter les critères de réussite pour un cas d'utilisation donné.
+  
+- Le manque de données de formation et d'évaluation disponibles pour les modèles est un obstacle courant pour les cas d'utilisation de l'IA. Les données LAM sont également déséquilibrées par nature, ce qui affectera la qualité des résultats de l'IA. Nous avons élaboré une feuille de travail pour comprendre et documenter l'état de préparation des données en vue de leur utilisation dans les systèmes d'IA.
+  
+- Un atelier sur le profil des domaines est en cours d'élaboration pour guider le regroupement et la mise en correspondance de plusieurs cas d'utilisation afin de clarifier les priorités en fonction des niveaux d'expertise, des risques ou des fonctions.
+
+Les ressources et les compétences nécessaires pour soutenir le travail d'IA ne sont souvent pas abondantes dans les LAM. En général, les cas d'utilisation présentant des niveaux de risque plus élevés nécessiteront plus de ressources et de temps pour être mis en œuvre. Les laboratoires ont développé les outils de compréhension pour aider le personnel à appliquer leur expertise et à évaluer où l'IA pourrait être appliquée de la manière la plus productive. Dans les cas d'utilisation où les avantages et les risques sont bien compris et pris en compte, où les données sont disponibles pour l'entraînement et l'évaluation des modèles, et où l'expertise et les ressources ont été identifiées, l'étape suivante consiste à déterminer ou à confirmer qu'une solution d'IA fonctionne.
+
+### Expérimenter
+
+### Mettre en œuvre
 

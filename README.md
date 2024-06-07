@@ -63,7 +63,15 @@ Les références de qualité sont créées en testant et en documentant une sér
 - _En cours de recommandation_ : Ensembles de données équilibrés pour l'évaluation comparative des modèles et outils d'IA nouvellement disponibles.
 
 
-
-
 ### Mettre en œuvre
+
+Le personnel, les partenaires, les décideurs, les parties prenantes et les fournisseurs manifestent un grand intérêt pour l'utilisation de l'IA afin d'aider à résoudre les problèmes persistants liés à la gestion et à l'utilisation des données GLAM. Cependant, comme toutes les technologies émergentes et potentiellement perturbatrices, il n'est pas pratique de les mettre en œuvre immédiatement. La Bibliothèque a des responsabilités envers ses utilisateurs, les parties prenantes, les communautés et les contribuables. Les activités de haut niveau détaillées dans la phase de mise en œuvre seraient probablement plus étendues dans la pratique et différentes dans d'autres contextes organisationnels. En général, une fois qu'une expérience a été classée par ordre de priorité, qu'elle a été jugée fructueuse et faisable, et que des bases de qualité ont été établies, une mise en œuvre responsable de l'IA s'appuie sur les éléments suivants :
+
+- Une feuille de route pour l'IA. Des plans fondés sur les données et les enseignements tirés de la phase d'expérimentation afin d'estimer et de gérer les coûts, l'infrastructure informatique, les moyens d'acquisition et les cycles de développement continu qui seront nécessaires pour soutenir la mise en œuvre au fil du temps.
+
+- Test continu des modèles d'IA et des résultats. Au fur et à mesure qu'un modèle d'IA traite davantage de données, les résultats changent. Des objectifs de performance, des mesures de qualité et des objectifs en matière d'expérience utilisateur doivent être établis et contrôlés. Des ressources et des plans sont nécessaires pour auditer les modèles afin de s'assurer qu'ils fonctionnent comme prévu au fil du temps. Des boucles de rétroaction et des réglages fins seront probablement nécessaires pour maintenir les niveaux souhaités.
+  
+- Sensibilisation du personnel et des utilisateurs. Inclure du personnel spécialisé dans l'apprentissage automatique et soutenir le personnel existant par des formations et des expériences. Lancer des programmes de recherche et de participation des utilisateurs pour recueillir leurs commentaires sur les outils d'IA destinés au public.
+  
+- Engagement et collaboration continus de la communauté. Coordonner le soutien à l'élaboration de normes de qualité communes pour les cas d'utilisation et les données GLAM. Héberger des ensembles de données et des outils partagés spécifiques à l'apprentissage automatique pour la formation, l'évaluation comparative et l'examen de la qualité.
 

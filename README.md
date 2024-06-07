@@ -51,5 +51,19 @@ Les ressources et les compétences nécessaires pour soutenir le travail d'IA ne
 
 ### Expérimenter
 
+De nouveaux produits IA sont fréquemment mis sur le marché, chacun avec son propre mélange d'outils et d'affirmations marketing. Des expériences permettent de tester des cas d'utilisation spécifiques, avec des modèles et des données, avec le personnel et les utilisateurs afin de documenter les performances et d'établir des comparaisons et des références en termes de qualité. Il s'agit d'une étape nécessaire avant toute mise en œuvre, car les mesures de performance publiées, qui peuvent atteindre une précision de 95 à 99 % pour certaines tâches de traitement du langage naturel, ne peuvent souvent pas être atteintes lors du traitement des données GLAM. Des références minimales de qualité doivent être établies pour la plupart des cas d'utilisation de l'IA dans les GLAM.
+
+Les références de qualité sont créées en testant et en documentant une série d'approches susceptibles de prendre en charge un cas d'utilisation et en analysant les résultats en détail. Outre les tests de performance approfondis, des processus d'examen de la qualité doivent être mis en place. Les résultats de l'IA doivent être examinés par le personnel et les utilisateurs afin de déterminer s'ils sont suffisamment bons pour être utilisés par les GLAM. Il convient également de confirmer que les conséquences de l'automatisation continuent à soutenir les principes et les objectifs de l'organisation.  Le processus de test de cas d'utilisation spécifiques avec le personnel et les utilisateurs permettra de recueillir un retour d'information important. Il permettra également de développer une expertise en matière d'évaluation des données générées par l'IA. Nous utilisons les outils et mécanismes suivants pour les expériences :
+
+ - Le contrat _Digital Innovation Indefinite Delivery Indefinite Quantity_ (IDIQ) est un mécanisme de contrat pluriannuel que nous pouvons utiliser pour réaliser des expériences d'IA à la Bibliothèque du Congrès ; il inclut des spécifications qui peuvent être utiles à la communauté dans son ensemble.
+
+- Le  _Data Processing Plan_ (plan de traitement des données, [trad. FR]()) documente les transformations de données et les performances prévues et réelles du modèle d'IA pour des tâches spécifiques. Il combine des éléments d'une carte de modèle, d'une feuille de couverture de données et documente la provenance des données. Les fournisseurs sont tenus de le remplir dans le cadre du Digital Innovation IDIQ.
+
+- _En cours de développement_ : Guide d'évaluation des fournisseurs de NLP et recommandations pour l'examen de la qualité.
+- _En cours de recommandation_ : Ensembles de données équilibrés pour l'évaluation comparative des modèles et outils d'IA nouvellement disponibles.
+
+
+
+
 ### Mettre en œuvre
 

@@ -75,3 +75,8 @@ Le personnel, les partenaires, les décideurs, les parties prenantes et les four
   
 - Engagement et collaboration continus de la communauté. Coordonner le soutien à l'élaboration de normes de qualité communes pour les cas d'utilisation et les données GLAM. Héberger des ensembles de données et des outils partagés spécifiques à l'apprentissage automatique pour la formation, l'évaluation comparative et l'examen de la qualité.
 
+Aucune organisation ne peut faire face seule aux changements et aux impacts de l'IA. Les GLAM ont la possibilité de développer les éléments constitutifs d'une mise en œuvre efficace, utile et éthique de l'IA. L'élaboration et la communication conjointes de nos exigences en tant que secteur contribueront à améliorer les résultats de l'IA dans les GLAM, tout comme le partage d'informations sur la politique, la gouvernance, l'infrastructure et les coûts de l'IA.
+
+Notre cadre de planification de l'IA s'appuie sur l'expérience approfondie du secteur des GLAM face aux changements technologiques. Alors que les solutions d'IA deviennent de plus en plus omniprésentes, ces étapes contribueront à garantir que, lorsque les technologies d'IA auront rattrapé leurs promesses, nous serons prêts à en bénéficier.
+
+N'hésitez pas à ajouter vos commentaires et réactions à notre repo [GitHub](https://github.com/LibraryOfCongress/labs-ai-framework/tree/main).

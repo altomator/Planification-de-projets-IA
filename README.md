@@ -43,7 +43,7 @@ La première série d'activités consiste à comprendre l'utilisation proposée 
   
 - Nous avons créé un [formulaire pour l'évaluation des cas d'usage](docs/Use_Case_Assessment_Worksheet_2023-11-15-draft_FR.odt) afin de présenter au personnel les circonstances qui peuvent réduire ou augmenter les risques pour un cas d'utilisation donné. Une deuxième [phase d'évaluation]() permet d'articuler les risques et les avantages pour différents groupes et de documenter les critères de réussite pour un cas d'utilisation donné.
   
-- Le manque de données de formation et d'évaluation disponibles pour les modèles est un obstacle courant pour les cas d'utilisation de l'IA. Les données LAM sont également déséquilibrées par nature, ce qui affectera la qualité des résultats de l'IA. Nous avons élaboré un [formulaire]() pour comprendre et documenter l'état de préparation des données en vue de leur utilisation dans les systèmes d'IA.
+- Le manque de données de formation et d'évaluation disponibles pour les modèles est un obstacle courant pour les cas d'utilisation de l'IA. Les données LAM sont également déséquilibrées par nature, ce qui affectera la qualité des résultats de l'IA. Nous avons élaboré un [formulaire](docs/Data_Assessment_Worksheet_2023-11-14_FR.odt) pour comprendre et documenter l'état de préparation des données en vue de leur utilisation dans les systèmes d'IA.
   
 - Un atelier sur le profil des domaines est en cours d'élaboration pour guider le regroupement et la mise en correspondance de plusieurs cas d'utilisation afin de clarifier les priorités en fonction des niveaux d'expertise, des risques ou des fonctions.
 
